@@ -5,6 +5,9 @@ The app uses bootstrap forms and javascript to request information. It saves the
 
 The homework is the first to utilize full-stack implementation. 
 
+Missing features: 
+I failed to included the logic which compares the inputed values to each object in the array and returning the person with the highest similarities.
+
 
 Credits: The game project student developer is Mike Taniguchi.
 
